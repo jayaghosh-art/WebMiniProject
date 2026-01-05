@@ -2,7 +2,7 @@
 
 A sleek, responsive, and high-performance personal portfolio website built to showcase my web development projects and technical skills.
 
-**Live Demo:** [Insert Your GitHub Pages Link Here]
+**Live Demo:** [https://github.com/jayaghosh-art]
 
 ---
 
@@ -21,12 +21,6 @@ A sleek, responsive, and high-performance personal portfolio website built to sh
 * **JavaScript (ES6):** Interactive components like mobile navigation and scroll animations.
 * **GitHub Pages:** Deployment and hosting.
 
-## 📸 Preview
-
-> [!TIP]
-> Drag and drop a screenshot of your website here to make this README pop!
-
----
 
 ## 🚀 Getting Started
 
@@ -34,7 +28,7 @@ If you'd like to run this project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+   git clone [https://github.com/jayaghosh-art/WebMiniProject/blob/main/README.md]
    Output
   
 <img width="1920" height="1080" alt="Screenshot 2026-01-05 161707" src="https://github.com/user-attachments/assets/601a259f-bab3-477c-801a-c8d707222576" />
