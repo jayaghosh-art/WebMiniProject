@@ -37,7 +37,7 @@ If you'd like to run this project locally:
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
    Output
   
-<img width="1920" height="1080" alt="Screenshot 2026-01-05 160530" src="https://github.com/user-attachments/assets/174a486e-b93f-421c-8b10-acaa230a9a15" />
-<img width="1920" height="1080" alt="Screenshot 2026-01-05 160622" src="https://github.com/user-attachments/assets/0972b21c-74b4-45a5-b0a3-17a87601a2ff" />
-<img width="1920" height="1080" alt="Screenshot 2026-01-05 160610" src="https://github.com/user-attachments/assets/bf7b1d67-925a-49c9-ad60-bce8542889f0" />
-<img width="1920" height="1080" alt="Screenshot 2026-01-05 160558" src="https://github.com/user-attachments/assets/1c1bef13-5707-44ac-839a-d26f2d0c7e11" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-05 161229" src="https://github.com/user-attachments/assets/fb3ce14f-b970-4f5a-85d0-6e56de039fb3" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-05 161229" src="https://github.com/user-attachments/assets/1b64934f-d50a-40c9-95b9-6e12c9b182aa" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-05 161117" src="https://github.com/user-attachments/assets/092c7be7-8b8a-4391-870c-10036f6c9d30" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-05 161241" src="https://github.com/user-attachments/assets/7084659e-466e-4a1d-ab45-4ba1f7b45488" />
